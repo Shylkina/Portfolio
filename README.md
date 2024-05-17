@@ -1,6 +1,7 @@
 # Portfolio
+<p style="color: #118DA7;"> 
 Online portfolio showcasing data analysis projects using Excel, Python, SQL, and Power BI. Includes sample datasets, visualizations, and code examples.
-
+</p>
 ## Contents(Folders)
 
 - **Presentations**: PDF presentations of  "Higher education in Ukraine 2012-2021 / Освіта ВНЗ України 2012-2021" data analysis projects.
