@@ -8,5 +8,5 @@
     * "Higher education in Ukraine 2012-2021, 
     * "Tracker 500"*
 - **SQL_Queries**: Examples of SQL queries used in my projects.
-  2. Window function
+  1. Window function
   2. all
